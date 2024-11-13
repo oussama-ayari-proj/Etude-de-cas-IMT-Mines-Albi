@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="917d82a9-64fc-4133-8e98-40fc41b66878" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Nettoyage.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Question1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Question1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ANOM_1 export final_ALBI.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ANOM_2 export final_ALBI.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ANOM_3 export final_ALBI.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nettoyage.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Nettoyage.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +117,8 @@
       <workItem from="1730798220721" duration="2589000" />
       <workItem from="1731334622212" duration="4087000" />
       <workItem from="1731401097382" duration="5987000" />
-      <workItem from="1731422141046" duration="7070000" />
+      <workItem from="1731422141046" duration="21352000" />
+      <workItem from="1731503598409" duration="4030000" />
     </task>
     <servers />
   </component>
