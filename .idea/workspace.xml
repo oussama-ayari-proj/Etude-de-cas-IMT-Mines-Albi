@@ -5,8 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="917d82a9-64fc-4133-8e98-40fc41b66878" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/data/BDTotal-Test (1).xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Dict3-Ancien.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cities-Grand.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cities.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Nettoyage.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Nettoyage.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question3.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ANOM3.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/DataTotal.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Dict2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Dict3.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Dictionnaire.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/fichier1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/fichier1.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/fichier2.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/fichier2.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/fichier3.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/fichier3.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,21 +47,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Oussama&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/oussama/Desktop/9RAYA_IMT/AnaDon/Projet-Anadon&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/oussama/Desktop/9RAYA_IMT/AnaDon/Projet-Anadon/data",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\oussama\Desktop\9RAYA_IMT\AnaDon\Projet-Anadon\data" />
       <recent name="C:\Users\oussama\Desktop\9RAYA_IMT\AnaDon\Projet-Anadon" />
     </key>
   </component>
@@ -119,6 +135,8 @@
       <workItem from="1731401097382" duration="5987000" />
       <workItem from="1731422141046" duration="21352000" />
       <workItem from="1731503598409" duration="4030000" />
+      <workItem from="1731520025461" duration="3721000" />
+      <workItem from="1732488156311" duration="8690000" />
     </task>
     <servers />
   </component>
